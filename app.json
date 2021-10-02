@@ -1,0 +1,29 @@
+{
+    "name": "BRODCAST BOT",
+    "description": "TELEGRAM BRODCAST BOT MADE BY @M1CKEY_0P.",
+    "keywords": ["Tg brodcast bot", "brodcast userbot", "telegram", "gcast", "gcast bot telegram"],
+    "repository": "https://github.com/MickeyxD/brodcastBot",
+    "logo": "https://telegra.ph/file/b1747cbb8dd03bce4c292.jpg",
+    "env": {
+        "API_ID": {
+            "description": "From 'https://my.telegram.org/auth'",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "From 'https://my.telegram.org/auth'",
+            "required": true
+        },
+        "STRING_SESSION": {
+            "description": "FROM https://replit.com/@iammohit7/string-session#main.py.",
+            "required": true
+         },
+        "LOG_ID": {
+            "description": "create a private channel and add @missrosebot then type /id, to get Chat id.",
+            "required": true
+         },
+        "USER_ID": {
+            "description": "start @missrose_bot and type /id to get your user id",
+            "required": true
+        }
+    }
+  }
