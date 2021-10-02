@@ -1,6 +1,4 @@
-# Boardcast-Bot
-
-# Tg Brodcast Bot
+# Brodcast Bot
 
 Best userbot to send message in all group at one time
 
